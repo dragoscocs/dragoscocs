@@ -23,14 +23,7 @@
 
 Most of my projects come back to the same idea: taking a messy, real world process (booking a court, reserving a slot, collecting the right details) and turning it into software that people actually use. Lately I have also been drawn to how AI agents and interfaces meet, which is what pulled me into open source.
 
-## Featured work
-
-### Star Arena Booking
-
-An end to end B2B and B2C booking system for sports facilities. It handles time slot management, an admin dashboard with dynamic canvas rendering, and secure JWT authentication.
-
-**Stack:** React (Vite), Tailwind CSS, Spring Boot (Java)
-&nbsp;·&nbsp; [Repository »](https://github.com/dragoscocs/star-arena-booking)
+## Featured project
 
 ### Generative UI, contributed at [Xorio](https://github.com/xoriors)
 
@@ -44,18 +37,28 @@ A chat feature where an AI agent draws an interactive form inside the conversati
 &nbsp;·&nbsp; Merged: [PR #44](https://github.com/xoriors/experimental/pull/44), [PR #45](https://github.com/xoriors/experimental/pull/45)
 &nbsp;·&nbsp; [Code »](https://github.com/xoriors/experimental/tree/main/generative-ui)
 
+## Selected work
+
+Full-stack booking systems I have designed and built. The source is private, and I am happy to walk through it on request.
+
+### Star Arena Booking
+
+An end to end B2B and B2C booking system for sports facilities. It handles time slot management, an admin dashboard with dynamic canvas rendering, and secure JWT authentication.
+
+**Stack:** React (Vite), Tailwind CSS, Spring Boot (Java)
+
 ### Viitorul Argeș, sports base
 
 A live booking site for a real sports base, with reservations handled over WhatsApp for football, padel and tennis courts. Shipped and in use.
 
-[Repository »](https://github.com/dragoscocs/baza-sportiva-viitorul-arges)
+**Stack:** HTML, CSS, JavaScript
 
-## Also on my profile
+## More on my profile
 
-Coursework at Politehnica that keeps the fundamentals sharp: the Knapsack problem for Algorithm Analysis (Java), object oriented programming, and functional programming in Haskell. A few more booking and marketplace apps live in my repositories.
+A hackathon project built with my team ([HackitAll RAMsarii](https://github.com/dragoscocs/HackitAll-RAMsarii)), a tennis app I contributed to ([top-tennis](https://github.com/angelstanciu/top-tennis)), and coursework that keeps the fundamentals sharp: the Knapsack problem for Algorithm Analysis (Java), object oriented programming, and functional programming in Haskell.
 
 ## Reach me
 
 [GitHub](https://github.com/dragoscocs)
-&nbsp;·&nbsp; LinkedIn: add-your-link
-&nbsp;·&nbsp; Email: add-your-email
+&nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/dragos-cristian-babian-1680b9258/)
+&nbsp;·&nbsp; [dragosbabian10@gmail.com](mailto:dragosbabian10@gmail.com)
